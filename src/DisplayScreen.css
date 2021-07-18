@@ -1,0 +1,11 @@
+.display {
+    margin: 5px 5px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    width: 229px;
+    height: 75px;
+    font-size: 25px;
+    font-weight: 500;
+    background-color: white;
+    text-align: right;
+}
